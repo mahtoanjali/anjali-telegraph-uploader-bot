@@ -55,7 +55,7 @@ So don't tag admins for errors of your deploy/code,
 If any errors you should fix it yourself!!</pre>
 
 ## Credits: <br>
- • <a href="https://github.com/mahtoanjali">Sanila Ranatunga</a> <br>
+ • <a href="https://github.com/mahtoanjali">Anjali Mahto</a> <br>
  • <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a> 
   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahtoanjali/feedback-bot)   
